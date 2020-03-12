@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <img src="https://user-images.githubusercontent.com/62075207/76503436-f6467880-6456-11ea-9139-e2ea1786d709.jpg" alt="порода шаплей" >
     <header>
       <nav>
         <!--Ссылка на наш диолог с ксюшой-->
