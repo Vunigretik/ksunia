@@ -9,12 +9,12 @@
     <img src="https://user-images.githubusercontent.com/62075207/76503981-db283880-6457-11ea-8bf7-9bf4d566c72d.jpg" alt="шаплей" >
     <header>
       <nav>
-        <h1>Это мой первый сайт.</h1>
         <!--Ссылка на наш диолог с ксюшой-->
         <button><a href="tg://resolve?domain=@Vunigretik"><b>Интересная кнопка</b></a></button>
       </nav>
     </header>
     <main>
+        <h1>Это мой первый сайт.</h1>
       <article>
         <p><i>И так как ты прочитала это мой первый сайт, он создан только на одном языке html.</i><br><q>Буду учить больше языков = будет лучше сайт.</q> <br>думаю это ясно.</p>
         <p>
