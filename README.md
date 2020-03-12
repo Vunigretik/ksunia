@@ -5,7 +5,8 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <img src="https://user-images.githubusercontent.com/62075207/76503436-f6467880-6456-11ea-9139-e2ea1786d709.jpg" alt="порода шаплей" >
+    <img src="https://user-images.githubusercontent.com/62075207/76503436-f6467880-6456-11ea-9139-e2ea1786d709.jpg" alt="порода" >
+    <img src="https://user-images.githubusercontent.com/62075207/76503981-db283880-6457-11ea-8bf7-9bf4d566c72d.jpg" alt="шаплей"
     <header>
       <nav>
         <!--Ссылка на наш диолог с ксюшой-->
